@@ -19,3 +19,4 @@ psutil
 flask-scrypt
 selenium
 Pillow
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
